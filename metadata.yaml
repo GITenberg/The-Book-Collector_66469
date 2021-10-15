@@ -1,0 +1,42 @@
+_repo: The-Book-Collector_66469
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hofer, Philip
+    gutenberg_agent_id: '53824'
+    url: http://www.gutenberg.org/2009/agents/53824
+  translator:
+    agent_name: Sessions, Barbara
+    gutenberg_agent_id: '53823'
+    url: http://www.gutenberg.org/2009/agents/53823
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles_Nodier
+    - https://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2021-10-05'
+identifiers:
+  gutenberg: '66469'
+language: en
+pgterms:marc904: https://archive.org/details/bookcollector00nodi/page/n5/mode/2up
+pgterms:marc905: 20201207072925nodier
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Tim Lindell, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Crimson Printing Company,1951.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Book Collector
+url: http://www.gutenberg.org/ebooks/66469
