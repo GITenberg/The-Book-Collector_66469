@@ -9,6 +9,9 @@ contributor:
     agent_name: Sessions, Barbara
     gutenberg_agent_id: '53823'
     url: http://www.gutenberg.org/2009/agents/53823
+covers:
+- cover_type: archival
+  image_path: 66469-h/images/cover.jpg
 creator:
   author:
     agent_name: Nodier, Charles
@@ -21,6 +24,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Charles_Nodier
     - https://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66469#The-Book-Collector
 gutenberg_issued: '2021-10-05'
 identifiers:
   gutenberg: '66469'
